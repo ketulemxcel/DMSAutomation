@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>DMS_Automation</description>
+   <name>DMS_Automation</name>
+   <tag></tag>
+   <UUID>441b5819-b58c-4db7-8a53-db808c0e7016</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
